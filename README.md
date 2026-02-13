@@ -32,13 +32,6 @@ Each grid cell responds to user clicks and triggers **ripple effects** on neighb
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v18 or later)
-- npm
-
 ### Installation
 
 ```bash
@@ -77,7 +70,7 @@ src/
 
 ---
 
-## 🧩 Components
+##  Components
 
 | Component | Responsibility |
 |-----------|---------------|
@@ -87,7 +80,7 @@ src/
 
 ---
 
-## 🛡️ Edge Cases Handled
+##  Edge Cases Handled
 
 | Scenario | Behavior |
 |----------|----------|
